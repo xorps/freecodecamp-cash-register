@@ -1,0 +1,29 @@
+{
+  "name": "freecodecamp-cash-register",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "start": "ts-node src/main.ts",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xorps/freecodecamp-cash-register.git"
+  },
+  "author": "xorps",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xorps/freecodecamp-cash-register/issues"
+  },
+  "homepage": "https://github.com/xorps/freecodecamp-cash-register#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.22",
+    "jest": "^26.6.3",
+    "ts-jest": "^26.5.4",
+    "typescript": "^4.2.3"
+  },
+  "dependencies": {
+    "ts-node": "^9.1.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "strictNullChecks": true,
+        "noImplicitAny": true,
+        "outDir": "dist",
+        "esModuleInterop": true,
+        "target": "ESNext"
+    },
+    "include": ["src/**/*"],
+    "exclude": ["dist/**/*", "node_modules/**/*", "tests/**/*"]
+}
